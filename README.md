@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.4.
 
+## Ejecutar instalar librerias o dependencias
+npm install
+
 ## Development server
 
 To start a local development server, run:
